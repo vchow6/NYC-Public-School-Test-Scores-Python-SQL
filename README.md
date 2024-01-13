@@ -1,11 +1,13 @@
 # Exploring NYC Public School Test Result Scores
 
 ## Project Description and Task
-Every year, school test results play a role in deciding the fate of millions of students. In America, the SAT is a major part of the college admissions process.
+Every year, American high school students take SATs, which are standardized tests intended to measure literacy, numeracy, and writing skills. There are three sections - reading, math, and writing, each with a maximum score of 800 points. These tests are extremely important for students and colleges, as they play a pivotal role in the admissions process.
 
-In this project, I worked with a dataset containing test performance from NYC's public schools.
+Analyzing the performance of schools is important for a variety of stakeholders, including policy and education professionals, researchers, government, and even parents considering which school their children should attend.
 
-I the schools with top math results, look at how performance varies by borough, and find the top ten performing schools across the city!
+We will take a look at data on SATs across public schools in New York City in this *[notebook](https://github.com/vchow6/Project-Exploring-NYC-Public-School-Test-Result-Scores/edit/main/README.md#:~:text=t-,NYC_test_scores,-.ipynb)*. Our database contains a single table:
+
+
 
 ## The Data
 ### **schools.csv**
