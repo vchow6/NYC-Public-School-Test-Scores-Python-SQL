@@ -5,7 +5,7 @@ Every year, American high school students take SATs, which are standardized test
 
 Analyzing the performance of schools is important for a variety of stakeholders, including policy and education professionals, researchers, government, and even parents considering which school their children should attend.
 
-We will take a look at data on SATs across public schools in New York City in **both** *[Python](https://github.com/vchow6/Project-Exploring-NYC-Public-School-Test-Result-Scores/blob/main/NYC_test_scores.ipynb)* and *[SQL](https://github.com/vchow6/Project-Exploring-NYC-Public-School-Test-Result-Scores/blob/main/NYC_Public_School_Scores_SQL.ipynb)*. Our database contains a single table:
+We will take a look at data on SATs across public schools in New York City in **both** *[Python](https://github.com/vchow6/Project-Exploring-NYC-Public-School-Test-Result-Scores/blob/main/NYC_test_scores_python.ipynb)* and *[SQL](https://github.com/vchow6/Project-Exploring-NYC-Public-School-Test-Result-Scores/blob/main/NYC_Public_School_Scores_SQL.ipynb)*. Our database contains a single table:
 
 
 
